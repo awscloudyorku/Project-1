@@ -134,3 +134,6 @@ Amplify automatically rebuilds and redeploys.
 - Add a custom domain with HTTPS
 - Create a members-only page
 - Add an events section
+
+## Research Report
+At the end of the project, submit a short research report about AWS Amplify that is written for people who are brand new to AWS. Keep it very simple: explain what the service is, what it does, and one or two real-world use cases in plain language.
